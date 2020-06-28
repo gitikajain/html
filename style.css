@@ -14,7 +14,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color: #a6c3df;
+    background-color: #b5c4d2;
     margin: 10px;
 }
 
@@ -32,17 +32,17 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.item1>h2 {
-    background-color: #11838b;
+section.lebesgue>h2 {
+    background-color: #76b8db;
 }
 
-section.item2>h2 {
-    background-color: #1751c7;
+section.fubini>h2 {
+    background-color: #4f7acd;
 }
 
-section.item3>h2 {
+section.luzin>h2 {
     color: #e2e2e2;
-    background-color: #e430b7;
+    background-color: #10328a;
 }
 
 section>p {
@@ -186,5 +186,4 @@ section>p {
     .col-sm-12 {
         width: 100%;
     }
-}
 }
